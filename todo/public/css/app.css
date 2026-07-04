@@ -1,0 +1,13 @@
+.btn-toggle {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    font-weight: bold;
+    line-height: 1;
+    flex-shrink: 0;
+}
+
+.task-item.is-completed .task-title {
+    text-decoration: line-through;
+    color: #9aa0a6;
+}
